@@ -5,10 +5,10 @@
 <h3 align="left">I am a Software Engineer</h3>
 
 <p align="left">
-  <a href="https://github.com/MacroPower/MacroPower">
+  <a href="https://github.com/wallacefreitas">
     <img src="https://komarev.com/ghpvc/?username=wallacefreitas" alt="page views" />
   </a>
-  <a href="https://github.com/MacroPower?tab=followers">
+  <a href="https://github.com/wallacefreitas?tab=followers">
     <img alt="GitHub followers" src="https://img.shields.io/github/followers/wallacefreitas?color=green&logo=github">
   </a>
 </p>
