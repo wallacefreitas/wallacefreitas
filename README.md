@@ -52,15 +52,6 @@ A sample of my recent articles:
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=wallacefreitas&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Wallace's GitHub Stats" />
 </a>
 
-<a href="https://github.com/wallacefreitas/web-whatsapp-ui-clone">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=wallacefreitas&repo=web-whatsapp-ui-clone&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
-</a>
-
-
-<a href="https://github.com/wallacefreitas/memory-game">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=wallacefreitas&repo=memory-game&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
-</a>  
-
 <!--
 **wallacefreitas/wallacefreitas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
