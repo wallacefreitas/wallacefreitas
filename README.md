@@ -3,7 +3,7 @@
   Hello there! I'm Wallace de Freitas
 </h1>
 
-### 👨‍ About Me
+### 👨‍🔬 About Me
 :heavy_check_mark: I am a Software Engineer <br />
 :heavy_check_mark: Open Source solutions enthusiast <br />
 :heavy_check_mark: Challenged <br />
