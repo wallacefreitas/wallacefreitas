@@ -47,6 +47,7 @@ A sample of my recent articles:
 ![](https://img.shields.io/badge/Tools-SQL-informational?style=flat&logo=microsoft-sql-server&logoColor=white&color=6272a4)
 ![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=6272a4)
 ![](https://img.shields.io/badge/Tools-Redis-informational?style=flat&logo=redis&logoColor=white&color=6272a4)
+![](https://img.shields.io/badge/Tools-MySQL-informational?style=flat&logo=mysql&logoColor=white&color=6272a4)
 
 ### &#x1f4c8; GitHub Stats
 <div style="display: inline_block", align="left">
