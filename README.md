@@ -59,6 +59,10 @@ A sample of my recent articles:
   </a>
 </div>
 
+<div style="float: right; text-align: right; width:100%;">
+  <h6>💬 "The mind is parachute, it only works if you open it..."</h6>
+</div>
+
 <!--
 **wallacefreitas/wallacefreitas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
