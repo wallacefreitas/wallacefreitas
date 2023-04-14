@@ -6,7 +6,7 @@
 ### 👨‍🔬 About Me
 :heavy_check_mark: I am a Software Engineer <br />
 :heavy_check_mark: Open Source solutions enthusiast <br />
-:heavy_check_mark: Challenged <br />
+:heavy_check_mark: Passionate for challenges <br />
 :heavy_check_mark: Follower of good programming and architecture practices (Clean Code, SOLID Principles, Factory, Clean Architecture) <br />
 :heavy_check_mark: Lover of the learning, teach and pets <br />
 
