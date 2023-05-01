@@ -62,7 +62,7 @@ A sample of my recent articles:
 </div>
 
 <div style="float: right; text-align: right; width:100%;">
-  <h6>"...The mind is parachute, it only works if you open it..."</h6>
+  <h6>"The mind is parachute, it only works if you open it..."</h6>
 </div>
 
 <!--
