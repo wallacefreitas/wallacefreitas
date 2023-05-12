@@ -7,7 +7,7 @@
 :heavy_check_mark: I am a Software Engineer <br />
 :heavy_check_mark: Open Source solutions enthusiast <br />
 :heavy_check_mark: Passionate for challenges, learn and teach <br />
-:heavy_check_mark: Follower of good programming and architecture practices (Clean Code, Development Patterns, Clean Architecture) <br />
+:heavy_check_mark: Follower of good programming and architecture practices (Clean Code, Patterns, Clean Architecture) <br />
 
 ### &#x270d; Blog & Writing
 
