@@ -4,6 +4,7 @@
 </h1>
 
 ### 👨‍🔬 About Me
+
 :heavy_check_mark: I am a Software Engineer <br />
 :heavy_check_mark: Open Source solutions enthusiast <br />
 :heavy_check_mark: Passionate for challenges, learn and teach <br />
