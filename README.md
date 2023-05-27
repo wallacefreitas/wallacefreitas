@@ -1,6 +1,6 @@
 <h1 align="left" id="macropower-title">
   <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px" /> 
-  Hello there! I'm Wallace de Freitas
+  Hello there! I'm Wallace de Freitas 👋
 </h1>
 
 ### 👨‍🔬 About Me
