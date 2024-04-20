@@ -42,7 +42,6 @@ A sample of my recent articles:
 ![](https://img.shields.io/badge/Code-TailwindCSS-informational?style=flat&logo=tailwindcss&logoColor=white&color=8257E5)
 ![](https://img.shields.io/badge/Code-PHP-informational?style=flat&logo=php&logoColor=white&color=8257E5)
 ![](https://img.shields.io/badge/Code-GraphQL-informational?style=flat&logo=graphql&logoColor=white&color=8257E5)
-![](https://img.shields.io/badge/Code-AdvPL-informational?style=flat&logo=advpl&logoColor=white&color=8257E5)
 
 ###### Tests
 ![](https://img.shields.io/badge/Test-Vitest-informational?style=flat&logo=vitest&logoColor=white&color=8257E5)
