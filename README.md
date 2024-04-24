@@ -19,7 +19,7 @@ A sample of my recent articles:
 <!-- BLOG-POST-LIST:START -->
 - [Dockerizando o License Server](https://includebrasil.wordpress.com/2022/03/13/dockerizando-o-license-server/)
 - [AdvPL: Integrando com o Redis](https://includebrasil.wordpress.com/2022/02/15/advpl-integrando-com-o-redis/)
-- [Clean Code: Utilizando no ADVPL](https://includebrasil.wordpress.com/2022/02/07/clean-code-utilizando-no-advpl/)
+- [Clean Code: Applying in the AdvPL]([https://includebrasil.wordpress.com/2022/02/07/clean-code-utilizando-no-advpl/](https://dev.to/wallacefreitas/clean-code-applying-in-the-advpl-4mgn))
 - [Clean Code: Atingindo outro nível](https://includebrasil.wordpress.com/2022/02/07/utilizando-clean-code/)
 <!-- BLOG-POST-LIST:END -->
 
