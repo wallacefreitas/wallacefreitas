@@ -38,7 +38,6 @@ A sample of my recent articles:
 ![](https://img.shields.io/badge/Code-NextJS-informational?style=flat&logo=next.js&logoColor=white&color=8257E5)
 ![](https://img.shields.io/badge/Code-NodeJS-informational?style=flat&logo=node.js&logoColor=white&color=8257E5)
 ![](https://img.shields.io/badge/Code-TailwindCSS-informational?style=flat&logo=tailwindcss&logoColor=white&color=8257E5)
-![](https://img.shields.io/badge/Code-PHP-informational?style=flat&logo=php&logoColor=white&color=8257E5)
 ![](https://img.shields.io/badge/Code-GraphQL-informational?style=flat&logo=graphql&logoColor=white&color=8257E5)
 
 ###### Tests
