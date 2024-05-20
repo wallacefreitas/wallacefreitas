@@ -12,12 +12,12 @@
 
 ### &#x270d; Blog & Writing
 
-Apart from coding, I also maintain a blog - you can find my articles on my website at [https://includebrasil.wordpress.com/](https://includebrasil.wordpress.com/).
+Apart from coding, I also maintain a blog - you can find my articles on my website at [https://dev.to/wallacefreitas/](https://dev.to/wallacefreitas).
 
 A sample of my recent articles:
 
 <!-- BLOG-POST-LIST:START -->
-- [Dockerizando o License Server](https://includebrasil.wordpress.com/2022/03/13/dockerizando-o-license-server/)
+- [How to validate environment variables in Node.js?](https://dev.to/wallacefreitas/how-to-validate-environment-variables-in-nodejs-3bhm)
 - [AdvPL - Integrating with Redis](https://dev.to/wallacefreitas/advpl-integrating-with-redis-f67)
 - [Clean Code: Applying in the AdvPL](https://dev.to/wallacefreitas/clean-code-applying-in-the-advpl-4mgn)
 - [Clean Code: Atingindo outro nível](https://includebrasil.wordpress.com/2022/02/07/utilizando-clean-code/)
