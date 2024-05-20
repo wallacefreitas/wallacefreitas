@@ -20,7 +20,6 @@ A sample of my recent articles:
 - [How to validate environment variables in Node.js?](https://dev.to/wallacefreitas/how-to-validate-environment-variables-in-nodejs-3bhm)
 - [AdvPL - Integrating with Redis](https://dev.to/wallacefreitas/advpl-integrating-with-redis-f67)
 - [Clean Code: Applying in the AdvPL](https://dev.to/wallacefreitas/clean-code-applying-in-the-advpl-4mgn)
-- [Clean Code: Atingindo outro nível](https://includebrasil.wordpress.com/2022/02/07/utilizando-clean-code/)
 <!-- BLOG-POST-LIST:END -->
 
 ### :desktop_computer: Favorite Techs
