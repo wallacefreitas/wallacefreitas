@@ -10,16 +10,16 @@
 ✔ Passionate for challenges, learn and teach <br />
 ✔ Follower of good programming and architecture practices (Clean Code, SOLID Design Principles, Patterns, Clean Architecture) <br />
 
-### &#x270d; Blog & Writing
+### ✍🏻 Blog & Writing
 
 Apart from coding, I also maintain a blog - you can find my articles on my website at [https://dev.to/wallacefreitas/](https://dev.to/wallacefreitas).
 
 A sample of my recent articles:
 
 <!-- BLOG-POST-LIST:START -->
-👉🏻 [How to validate environment variables in Node.js?](https://dev.to/wallacefreitas/how-to-validate-environment-variables-in-nodejs-3bhm)
-👉🏻 [AdvPL - Integrating with Redis](https://dev.to/wallacefreitas/advpl-integrating-with-redis-f67)
-👉🏻 [Clean Code: Applying in the AdvPL](https://dev.to/wallacefreitas/clean-code-applying-in-the-advpl-4mgn)
+👉🏻 [How to validate environment variables in Node.js?](https://dev.to/wallacefreitas/how-to-validate-environment-variables-in-nodejs-3bhm) <br />
+👉🏻 [AdvPL - Integrating with Redis](https://dev.to/wallacefreitas/advpl-integrating-with-redis-f67) <br />
+👉🏻 [Clean Code: Applying in the AdvPL](https://dev.to/wallacefreitas/clean-code-applying-in-the-advpl-4mgn) <br />
 <!-- BLOG-POST-LIST:END -->
 
 ### :desktop_computer: Favorite Techs
