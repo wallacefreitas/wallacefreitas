@@ -17,9 +17,9 @@ Apart from coding, I also maintain a blog - you can find my articles on my websi
 A sample of my recent articles:
 
 <!-- BLOG-POST-LIST:START -->
-- [How to validate environment variables in Node.js?](https://dev.to/wallacefreitas/how-to-validate-environment-variables-in-nodejs-3bhm)
-- [AdvPL - Integrating with Redis](https://dev.to/wallacefreitas/advpl-integrating-with-redis-f67)
-- [Clean Code: Applying in the AdvPL](https://dev.to/wallacefreitas/clean-code-applying-in-the-advpl-4mgn)
+👉🏻 [How to validate environment variables in Node.js?](https://dev.to/wallacefreitas/how-to-validate-environment-variables-in-nodejs-3bhm)
+👉🏻 [AdvPL - Integrating with Redis](https://dev.to/wallacefreitas/advpl-integrating-with-redis-f67)
+👉🏻 [Clean Code: Applying in the AdvPL](https://dev.to/wallacefreitas/clean-code-applying-in-the-advpl-4mgn)
 <!-- BLOG-POST-LIST:END -->
 
 ### :desktop_computer: Favorite Techs
