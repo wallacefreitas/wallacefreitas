@@ -20,6 +20,8 @@ A sample of my recent articles:
 👉🏻 [How to validate environment variables in Node.js?](https://dev.to/wallacefreitas/how-to-validate-environment-variables-in-nodejs-3bhm) <br />
 👉🏻 [AdvPL - Integrating with Redis](https://dev.to/wallacefreitas/advpl-integrating-with-redis-f67) <br />
 👉🏻 [Clean Code: Applying in the AdvPL](https://dev.to/wallacefreitas/clean-code-applying-in-the-advpl-4mgn) <br />
+👉🏻 [5 DevOps Tools to Supercharge Your Workflow](https://dev.to/wallacefreitas/clean-code-applying-in-the-advpl-4mgn) <br />
+
 <!-- BLOG-POST-LIST:END -->
 
 ### :desktop_computer: Favorite Techs
