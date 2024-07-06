@@ -43,11 +43,11 @@ A sample of my recent articles:
 
 ###### Tests
 ![](https://img.shields.io/badge/Test-Vitest-informational?style=flat&logo=vitest&logoColor=white&color=8257E5)
+![](https://img.shields.io/badge/Test-Jest-informational?style=flat&logo=jest&logoColor=white&color=8257E5)
 
 ###### Tools & DevOps
 ![](https://img.shields.io/badge/Tools-MySQL-informational?style=flat&logo=mysql&logoColor=white&color=8257E5)
 ![](https://img.shields.io/badge/Tools-PostgreSQL-informational?style=flat&logo=postgresql&logoColor=white&color=8257E5)
-![](https://img.shields.io/badge/Tools-SQL-informational?style=flat&logo=microsoft-sql-server&logoColor=white&color=8257E5)
 ![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=8257E5)
 ![](https://img.shields.io/badge/Tools-Redis-informational?style=flat&logo=redis&logoColor=white&color=8257E5)
 
