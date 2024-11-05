@@ -5,7 +5,7 @@
 
 ### 👨🏻‍💻 About Me
 
-✔ I'm a Software Engineer (React, JavaScript, TypeScript, Node.js) <br />
+✔ I'm a Software Engineer (React, Node.js, JavaScript, TypeScript and AWS) <br />
 ✔ Open Source solutions enthusiast <br />
 ✔ Passionate for challenges, learn and teach <br />
 ✔ Follower of good programming and architecture practices (Clean Code, SOLID Design Principles, Patterns, Clean Architecture) <br />
@@ -19,7 +19,7 @@ A sample of my recent articles:
 <!-- BLOG-POST-LIST:START -->
 👉🏻 [How to validate environment variables in Node.js?](https://dev.to/wallacefreitas/how-to-validate-environment-variables-in-nodejs-3bhm) <br />
 👉🏻 [AdvPL - Integrating with Redis](https://dev.to/wallacefreitas/advpl-integrating-with-redis-f67) <br />
-👉🏻 [Clean Code: Applying in the AdvPL](https://dev.to/wallacefreitas/clean-code-applying-in-the-advpl-4mgn) <br />
+👉🏻 [Techniques to Save Costs Using AWS Lambda Functions with CDK](https://dev.to/wallacefreitas/techniques-to-save-costs-using-aws-lambda-functions-with-cdk-36oh) <br />
 👉🏻 [5 DevOps Tools to Supercharge Your Workflow](https://dev.to/wallacefreitas/clean-code-applying-in-the-advpl-4mgn) <br />
 
 <!-- BLOG-POST-LIST:END -->
