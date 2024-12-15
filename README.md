@@ -8,7 +8,7 @@
 ✔ I'm a Software Engineer (React, Node.js, JavaScript, TypeScript and AWS) <br />
 ✔ Open Source solutions enthusiast <br />
 ✔ Passionate for challenges, learn and teach <br />
-✔ Follower of good programming and architecture practices (Clean Code, SOLID Design Principles, Clean Architecture) <br />
+✔ Follower of good programming and architecture practices (Clean Code, SOLID, Clean Architecture) <br />
 
 ### ✍🏻 Blog & Writing
 
