@@ -26,10 +26,6 @@ A sample of my recent articles:
 
 ### :desktop_computer: Favorite Techs
 
-###### Operational Systems
-![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=8257E5)
-![](https://img.shields.io/badge/OS-MacOS-informational?style=flat&logo=apple&logoColor=white&color=8257E5)
-
 ###### Development & Frameworks
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=8257E5)
 ![](https://img.shields.io/badge/Code-TypeScript-informational?style=flat&logo=typescript&logoColor=white&color=8257E5)
@@ -38,7 +34,7 @@ A sample of my recent articles:
 ![](https://img.shields.io/badge/Code-TailwindCSS-informational?style=flat&logo=tailwindcss&logoColor=white&color=8257E5)
 ![](https://img.shields.io/badge/Code-GraphQL-informational?style=flat&logo=graphql&logoColor=white&color=8257E5)
 
-###### Tests
+###### Unit & Integrated Tests
 ![](https://img.shields.io/badge/Test-Vitest-informational?style=flat&logo=vitest&logoColor=white&color=8257E5)
 ![](https://img.shields.io/badge/Test-Jest-informational?style=flat&logo=jest&logoColor=white&color=8257E5)
 
@@ -46,6 +42,7 @@ A sample of my recent articles:
 ![](https://img.shields.io/badge/Tools-MySQL-informational?style=flat&logo=mysql&logoColor=white&color=8257E5)
 ![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=8257E5)
 ![](https://img.shields.io/badge/Tools-AWS-informational?style=flat&logo=amazon&logoColor=white&color=8257E5)
+![](https://img.shields.io/badge/Tools-Kubernetes-informational?style=flat&logo=kubernetes&logoColor=white&color=8257E5)
 
 ### &#x1f4c8; GitHub Stats
 <div style="display: inline_block", align="left">
